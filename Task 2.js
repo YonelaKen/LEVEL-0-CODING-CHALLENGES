@@ -11,4 +11,4 @@ console.log("The value of x is " + x);
 console.log("The value of y is " + y);
 console.log("The value of z is " + z);
 console.log("The value of a is " + a);
-console.log("The value of b is " + b);
+console.log("The value of b is " + b); 
