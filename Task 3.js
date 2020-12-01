@@ -11,5 +11,9 @@ function checkValue(a,b) {
     return false; 
   
   }
-  console.log(checkValue(10,10))
-  
+  //Here I check to see if this will printout true but will not printout true because the values are neither equal to 65 nor is the sum equal to 65
+  console.log(checkValue(10,10));
+  //Here it will out true as one of the values if equal to 65
+  console.log(checkValue(10,65));
+  //It will also printout true here as the sum of the two is equal to 65
+  console.log(checkValue(10,55));
