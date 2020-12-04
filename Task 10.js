@@ -45,4 +45,5 @@ function getVowels(word1,word2){
 
     
     }
-    getVowels("c","d");
+
+    getVowels("love","case");
