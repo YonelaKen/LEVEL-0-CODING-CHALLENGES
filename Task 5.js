@@ -4,4 +4,4 @@ function calculateArea(a,b,c){
     //This funtion returns the value of the area
     return area;
   }
-  console.log(calculateArea(3,4,5));
+  console.log(calculateArea(3,4,5)); 
